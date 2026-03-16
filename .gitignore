@@ -4,3 +4,4 @@ node_modules/
 .next
 .env
 .VS_CODE
+.DS_Store
